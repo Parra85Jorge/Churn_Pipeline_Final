@@ -1,0 +1,28 @@
+data: 
+  train_path: data/customer_churn_dataset-training-master.csv
+  test_path: data/customer_churn_dataset-testing-master.csv
+
+train:
+  test_size: 0.2
+  random_state: 42
+  shuffle: true
+
+model:
+  name: LogisticRegression
+  params:
+    penalty: l2
+    random_state: 42
+  store_path: models/
+
+  # name: GradientBoostingClassifier
+  # params:
+  #   max_depth: null
+  #   n_estimators: 10
+  # store_path: models/
+
+  # name: RandomForestClassifier
+  # params:
+  #   n_estimators: 50
+  #   max_depth: 10
+  #   random_state: 42
+  # store_path: models/

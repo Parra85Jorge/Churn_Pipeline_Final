@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731344765949
+current_stage: None
+description: null
+last_updated_timestamp: 1731344765949
+name: churn_model
+run_id: 570b1bdf02b74cad82836c323e0e9561
+run_link: null
+source: file:///C:/Users/LKB/Documents/LKBR%20TALLER%20CHURN/mlops/mlruns/329529613101311004/570b1bdf02b74cad82836c323e0e9561/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/LKB/Documents/LKBR%20TALLER%20CHURN/mlops/mlruns/329529613101311004/570b1bdf02b74cad82836c323e0e9561/artifacts/best_model
+user_id: null
+version: 1

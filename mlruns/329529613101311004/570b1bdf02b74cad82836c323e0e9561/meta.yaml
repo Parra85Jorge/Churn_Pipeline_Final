@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LKB/Documents/LKBR%20TALLER%20CHURN/mlops/mlruns/329529613101311004/570b1bdf02b74cad82836c323e0e9561/artifacts
+end_time: 1731344765980
+entry_point_name: ''
+experiment_id: '329529613101311004'
+lifecycle_stage: active
+run_id: 570b1bdf02b74cad82836c323e0e9561
+run_name: upbeat-auk-3
+run_uuid: 570b1bdf02b74cad82836c323e0e9561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731344694022
+status: 3
+tags: []
+user_id: LKB
